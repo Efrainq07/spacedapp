@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: white;
+    padding: 10px
+}
+header > h1{
+    color: black;
+    text-align: center;
+    font-family:arial
+ }
+
+ body{
+    padding: 10px;
+    background: black;
+ }
+
+ .address-block{
+    border: 2px solid;
+    width: 300px;
+    margin: 30px auto;
+ }
+
+ #text {
+     font-size: 20px;
+     color: white;
+     font-family: arial
+ }
